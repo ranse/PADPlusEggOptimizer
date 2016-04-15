@@ -8,11 +8,11 @@ Simple script that takes the user's + eggs and tries to produce the best end res
 
 <h2>Usage</h2>
 
-    python PADPlusEggOptimizer
+    python PADPlusEggCalc
 
 or
 
-    python PADPlusEggOptimizer < [filename]
+    python PADPlusEggCalc < [filename]
 
 where filename is a file containing stats in the following format:
 
