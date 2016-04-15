@@ -4,7 +4,6 @@ Simple script that takes the user's + eggs and tries to produce the best end res
 
 <h2>Requirements</h2>
 - python 3.0+
-- python-constraint
 
 <h2>Usage</h2>
 
